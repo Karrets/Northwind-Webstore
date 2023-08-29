@@ -8,7 +8,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa3d6de5-fdda-4be0-8b70-09f883601647" name="Changes" comment="" />
+    <list default="true" id="aa3d6de5-fdda-4be0-8b70-09f883601647" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Northwind-Webstore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Northwind-Webstore/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +30,7 @@
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
         <option name="accountId" value="4efe9d5e-8ba5-4f5f-ac85-11d8c04d2201" />
-        <option name="url" value="https://github.com/Karrets/Northwest-Client.git" />
+        <option name="url" value="https://github.com/Karrets/Northwind-Webstore.git" />
       </UrlAndAccount>
     </option>
   </component>
@@ -43,7 +46,7 @@
   "associatedIndex": -1
 }]]></component>
   <component name="ProjectId" id="2UeyhYtA17Mq2AliuB0Tro6ZcGl" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -56,7 +59,6 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
@@ -113,7 +115,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693314461440</updated>
-      <workItem from="1693314463115" duration="7619000" />
+      <workItem from="1693314463115" duration="7986000" />
     </task>
     <servers />
   </component>
