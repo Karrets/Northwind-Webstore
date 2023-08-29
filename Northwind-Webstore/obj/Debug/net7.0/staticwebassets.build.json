@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7wOSG8CqyX7OdwKQtIYWLy0+n0gol0yjTdpHpUhW07M=",
+  "Source": "Northwind-Webstore",
+  "BasePath": "_content/Northwind-Webstore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

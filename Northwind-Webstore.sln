@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind-Webstore", "Northwind-Webstore\Northwind-Webstore.csproj", "{BC3D32FB-346D-481D-886B-E7D212C0028A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC3D32FB-346D-481D-886B-E7D212C0028A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC3D32FB-346D-481D-886B-E7D212C0028A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC3D32FB-346D-481D-886B-E7D212C0028A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC3D32FB-346D-481D-886B-E7D212C0028A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
