@@ -8,10 +8,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa3d6de5-fdda-4be0-8b70-09f883601647" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Northwind-Webstore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Northwind-Webstore/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="aa3d6de5-fdda-4be0-8b70-09f883601647" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,8 +112,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693314461440</updated>
-      <workItem from="1693314463115" duration="7986000" />
+      <workItem from="1693314463115" duration="8099000" />
     </task>
+    <task id="LOCAL-00001" summary="Adjust gitignore">
+      <option name="closed" value="true" />
+      <created>1693322465131</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693322465131</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,5 +132,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Adjust gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adjust gitignore" />
   </component>
 </project>
