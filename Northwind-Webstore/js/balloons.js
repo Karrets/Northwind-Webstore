@@ -30,6 +30,10 @@ $(function () {
                 $(this).prop('checked', checked);
             });
 
+            $('input[type=checkbox]').each((index, Element) => {
+                balloonFromID(Element);
+            });
+            
             return;
         }
 
@@ -39,9 +43,7 @@ $(function () {
         // make the image visible
         $('#' + this.id + 'Img').css('visibility', 'visible')
         // animate balloon in/out based on checkbox
-        $(this).is(':checked') ?
-            $('#' + this.id + 'Img').removeClass().addClass('animate__animated animate__bounceInDown') :
-            $('#' + this.id + 'Img').addClass('animate__animated animate__bounceOutUp');
+        balloonFromID(this);
     });
 
     $("#submit").on("click", function () {
@@ -58,3 +60,13 @@ $(function () {
             $("#userMessage").removeClass("red green blue")
         })
 });
+
+function balloonFromID(HTMLElement) {
+    let $balloon = $('#' + HTMLElement.id + 'Img');
+    
+    console.log(HTMLElement);
+
+    $(HTMLElement).is(":checked") ?
+        $balloon.removeClass().addClass('animate__animated animate__bounceInDown') :
+        $balloon.addClass('animate__animated animate__bounceOutUp');
+}
